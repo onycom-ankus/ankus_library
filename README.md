@@ -8,5 +8,5 @@
  ONYCOM INC. <br>
  <br>
  NOTICE) <br>
- This is ONYCOM License  <br>
+ This license is ONYCOM License  <br>
 ###########################################################################
