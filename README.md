@@ -1,7 +1,7 @@
 ###########################################################################<br>
  This is readme.rnd file <br>
  ankus library <br>
- ldbslovis@onycom.com created 20170828 <br>
+ ldbslovis@onycom.com created 20170829 <br>
  ankus_library (for ankus analyzer G) <br>
  http://openankus.com <br>
  http://onycom.com <br>
