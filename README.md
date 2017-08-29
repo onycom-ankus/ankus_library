@@ -10,6 +10,6 @@
  NOTICE) <br>
  This license is ONYCOM License  <br>
 Contact us ONYCOM,INC 
-This Library use only ankus analyzer (G) Version 1.0
+This Library use only ankus analyzer (G) Version 1.0 <br>
 There is no limit to the use, but please contact ONYCOM,INC at the time of redistribution.
 ###########################################################################
