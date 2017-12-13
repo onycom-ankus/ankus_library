@@ -22,6 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/hadoop/Documents/ankus/ankus_develop_workspace/ankus_library/ankus-core2-onycom-alpha1-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/ankus-core2-onycom-alpha1-1.1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
